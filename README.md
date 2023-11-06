@@ -28,9 +28,9 @@ id:6548eb5764e949d4f4ef087d
 https://github.com/laviManoj/Books-BrewApps.git
 
 -->Open the VS code Editor and Open Terminal And Inside Back-end do
->>npm i
+$npm i
 and
->>node app.js
+$node app.js
 
 Application will be Start and Coonecting Database.
 
